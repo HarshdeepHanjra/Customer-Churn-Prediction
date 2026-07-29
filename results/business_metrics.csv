@@ -1,0 +1,2 @@
+Total_Customers,Actual_Churn_Rate,Predicted_Churn_Rate,Actual_Churners,Predicted_Churners,Revenue_at_Risk,Potential_Revenue_Saved,Retention_Rate_Assumed
+1409,0.2654364797728886,0.2654364797728886,374,374,187000,56100.0,0.3

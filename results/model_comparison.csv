@@ -1,0 +1,7 @@
+Model,Accuracy,Precision,Recall,F1-Score,ROC-AUC,Train_Time
+Logistic Regression,1.0,1.0,1.0,1.0,1.0,0.02
+Decision Tree,1.0,1.0,1.0,1.0,1.0,0.03
+Random Forest,1.0,1.0,1.0,1.0,1.0,0.28
+XGBoost,1.0,1.0,1.0,1.0,1.0,0.35
+LightGBM,1.0,1.0,1.0,1.0,1.0,0.11
+CatBoost,1.0,1.0,1.0,1.0,1.0,0.71
