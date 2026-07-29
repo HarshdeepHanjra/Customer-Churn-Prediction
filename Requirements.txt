@@ -2,13 +2,13 @@ streamlit
 pandas
 numpy
 scikit-learn
+joblib
 xgboost
 lightgbm
 catboost
+shap
 matplotlib
 seaborn
 plotly
-shap
-joblib
 imbalanced-learn
 openpyxl
