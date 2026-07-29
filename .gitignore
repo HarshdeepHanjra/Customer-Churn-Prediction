@@ -37,3 +37,8 @@ Thumbs.db
 # Virtual Environment
 .venv/
 .conda/
+
+catboost_info/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
